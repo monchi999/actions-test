@@ -1,2 +1,2 @@
-# actions-test
-TEST
+# study-actions
+GitHub Actionsのチュートリアル用
